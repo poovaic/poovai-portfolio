@@ -772,7 +772,7 @@ height:50px;}
     #about .cta a{
         font-size: small;
     }
-    #about .about-img{
+    #about .col-left{
         width:80%;
     }
     #projects .project-item{
