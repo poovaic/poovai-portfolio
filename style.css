@@ -743,8 +743,8 @@ height:50px;}
         height: 360px;
     }
     #about .col-right {
-        width: 50%;
-        padding-left: 30px;
+        width: 80%;
+        /* padding-left: 30px; */
         text-overflow: hidden;
     }
     #about .col-right h2 {
@@ -753,10 +753,12 @@ height:50px;}
         font-size: 2.1rem;
         align-items: center;
         justify-content: center;
-        text-align: justify;
+        text-align: center;
+        /* margin: auto auto; */
         
         
     }
+  
     #about .col-left  {
         width:auto;
         text-align:inherit;
@@ -769,6 +771,9 @@ height:50px;}
     }
     #about .cta a{
         font-size: small;
+    }
+    #about .about-img{
+        width:80%;
     }
     #projects .project-item{
         width:70%;
